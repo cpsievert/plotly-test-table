@@ -1,0 +1,1 @@
+Old = {"data":[{"x":[1],"y":[1],"z":[1],"type":"scatter3d","mode":"markers","marker":{"fillcolor":"rgba(31,119,180,1)","color":"rgba(31,119,180,1)","line":{"color":"transparent"}},"frame":null,"name":[]}],"layout":{"margin":{"b":40,"l":60,"t":25,"r":10},"xaxis":{"domain":[0,1]},"yaxis":{"domain":[0,1]},"dragmode":"zoom","showlegend":false}}
